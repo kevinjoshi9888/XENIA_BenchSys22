@@ -3,7 +3,7 @@
 #### This repository contains code to reproduce the results for the paper 'XENIA: eXplainable ENergy Informatics and Attributes for building energy benchmarking' by Kevin Joshi, Arnab Jana, Pandarasamy Arjunan, and Krithi Ramamritham
 
 ##### Overview of XENIA
-[XENIA](/figures/xenia_teaser_2.png)
+[XENIA](XENIA_BenchSys22/figures/xenia_teaser_2.png)
 
 __doi:__
 
