@@ -5,6 +5,9 @@
 
 ![XENIA](/figures/xenia_teaser_2.png)
 
+##### Abstract:
+Benchmarking energy usage help identify operational and strategic best practices suitable for an establishment while creating awareness of energy consumption. Therefore in this work, we present XENIA, a data-driven energy benchmarking methodology for buildings in Singapore using a public dataset of building attributes. We develop an ensemble tree model to predict energy consumption using the building attributes as predictors. Symmetric mean absolute percentage error of these models for hotel and retail buildings is 5.15% and 5.02%, respectively. A benchmark grade is then assigned to each building using the actual and predicted energy consumption. To interpret the model, we provide a global explanation using the partial dependence function to show the effect of building attributes on energy consumption. For local explanation, i.e., for a specific building, we use the SHAP value to show the influence of each building attribute in the prediction model. The results for hotels and retail buildings show that change in AC and non-AC floor has the highest positive impact on energy consumption.
+
 A data visualization dashboard is available at: <https://public.tableau.com/app/profile/kevinjoshi9888/viz/XENIA_BenchSys22/XENIA>
 
 ##### url: https://doi.org/10.1145/3563357.3566140
