@@ -6,11 +6,11 @@
 ![XENIA](/figures/xenia_teaser_2.png)
 
 
-__doi:__10.1145/3563357.3566140
+doi: 10.1145/3563357.3566140
 
-__url:__https://doi.org/10.1145/3563357.3566140
+url: https://doi.org/10.1145/3563357.3566140
 
-__citation:__
+citation:
 
 > @inproceedings{10.1145/3563357.3566140,
 author = {Joshi, Kevin and Jana, Arnab and Arjunan, Pandarasamy and Ramamritham, Krithi},
